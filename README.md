@@ -22,5 +22,5 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ### Videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/PlhpVi2kMCI?si=B5i3sxESESsC-Ipt)<br/>
+- [Samp Highlights | A VOLTA DO CLÁSSICO DAYZ #4 ](https://youtu.be/PlhpVi2kMCI?si=B5i3sxESESsC-Ipt)<br/>
 
