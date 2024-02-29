@@ -1,9 +1,8 @@
-## Olá! Eu sou o Matheus Fraga 🖐️
+## redplugx 🔌
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/c/sujeitoprogramador](https://www.youtube.com/channel/UCGVlR0tU_k52tiLikH7PF_Q))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/redplugx)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/redplugx)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
